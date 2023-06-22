@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ListaDeTarefas2023.props" />
+</Project>
