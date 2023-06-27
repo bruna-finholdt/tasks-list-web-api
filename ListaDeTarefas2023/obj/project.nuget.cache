@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CU5IGJThX4klZpY+WV5Wb44DSW1x+dC1HA+CG1EpDHfxoFjs3fhMQjdHybFafxD17Z/AbfviPcaOO1z35zmt/g==",
+  "dgSpecHash": "xsmpfU03TpHPKCq7kdXisv+TGfx65TLp9i/J7u2B9ndIBdfb0jPAkbG73Z5rEHneXl9OXe9dX5z13M8ONJwbWw==",
   "success": true,
-  "projectFilePath": "C:\\My Projects\\ListaDeTarefas2023\\ListaDeTarefas2023\\ListaDeTarefas2023.csproj",
+  "projectFilePath": "C:\\My Projects\\ITC Treinamento 2023\\ListaDeTarefas2023\\ListaDeTarefas2023\\ListaDeTarefas2023.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruna.finholdt\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\bruna.finholdt\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

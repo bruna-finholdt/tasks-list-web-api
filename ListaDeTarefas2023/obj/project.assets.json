@@ -3941,11 +3941,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My Projects\\ListaDeTarefas2023\\ListaDeTarefas2023\\ListaDeTarefas2023.csproj",
+      "projectUniqueName": "C:\\My Projects\\ITC Treinamento 2023\\ListaDeTarefas2023\\ListaDeTarefas2023\\ListaDeTarefas2023.csproj",
       "projectName": "ListaDeTarefas2023",
-      "projectPath": "C:\\My Projects\\ListaDeTarefas2023\\ListaDeTarefas2023\\ListaDeTarefas2023.csproj",
+      "projectPath": "C:\\My Projects\\ITC Treinamento 2023\\ListaDeTarefas2023\\ListaDeTarefas2023\\ListaDeTarefas2023.csproj",
       "packagesPath": "C:\\Users\\bruna.finholdt\\.nuget\\packages\\",
-      "outputPath": "C:\\My Projects\\ListaDeTarefas2023\\ListaDeTarefas2023\\obj\\",
+      "outputPath": "C:\\My Projects\\ITC Treinamento 2023\\ListaDeTarefas2023\\ListaDeTarefas2023\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruna.finholdt\\AppData\\Roaming\\NuGet\\NuGet.Config",
