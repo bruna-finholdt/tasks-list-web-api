@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeTarefas2023", "ListaDeTarefas2023\ListaDeTarefas2023.csproj", "{88920DA4-976E-417B-9057-2A45A763D239}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListaDeTarefas2023", "ListaDeTarefas2023\ListaDeTarefas2023.csproj", "{88920DA4-976E-417B-9057-2A45A763D239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeTarefas2023.Tests", "ListaDeTarefas2023.Tests\ListaDeTarefas2023.Tests.csproj", "{0A6E3B35-D8FC-43B4-93E5-81784B34EEDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{88920DA4-976E-417B-9057-2A45A763D239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88920DA4-976E-417B-9057-2A45A763D239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88920DA4-976E-417B-9057-2A45A763D239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6E3B35-D8FC-43B4-93E5-81784B34EEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6E3B35-D8FC-43B4-93E5-81784B34EEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6E3B35-D8FC-43B4-93E5-81784B34EEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6E3B35-D8FC-43B4-93E5-81784B34EEDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

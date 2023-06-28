@@ -22,6 +22,11 @@ namespace ListaDeTarefas2023.Services
 
         public ServiceResponse<Tarefa> CadastrarNovaTarefa(TarefaCreateRequest model)
         {
+            if (model.Prioridade < 1 || model.Prioridade > 5)
+
+            {
+                return new ServiceResponse<Tarefa>("A prioridade deve ser um valor entre 1 e 5");
+            }
 
             var novaTarefa = new Tarefa()
             {
